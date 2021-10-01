@@ -1,7 +1,7 @@
 ## 개발 참고 가이드 ()
 ```
 스타일 및 테마 적용시 반드시 아래 사이트에서 확인 후 우선 적용 하시기 바랍니다.
-http://full.04be.com
+http://full___.04___be.com
 common.js -> 공통 스크립트
 master.scss -> 공통 스타일
 /app/http/common.lib.php -> 공통 php 함수
@@ -194,7 +194,7 @@ AWS_ACCESS_KEY_ID=
 # QR URL 세팅
 ```
 .env 파일에
-QR_URL=http://api-qr.golfpay.co.kr/
+QR_URL=http://qr.domain.co.kr/
 ```
 
 # 휴면 세팅
