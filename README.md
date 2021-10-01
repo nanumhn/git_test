@@ -381,7 +381,7 @@ FACE_ENGINE_TYPE=LG
 # LG 안면인식 서버 설정
 ```
 .env 파일 내 추가 구성
-LG_FACE_URL=https://10.32.88.82/
+LG_FACE_URL=https://domain/
 LG_FACE_APP_KEY=7f2b25b5f9bfaee9
 LG_FACE_SECRET_KEY=9e3679d0070e4084c19e0e1a194bf8ef
 ```
